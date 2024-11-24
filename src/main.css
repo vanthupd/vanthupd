@@ -1,0 +1,27 @@
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+  }
+  
+  .product-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .product-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .news-page {
+    margin-top: 20px;
+  }
+  
+  .news-item {
+    margin-bottom: 20px;
+  }
+  
